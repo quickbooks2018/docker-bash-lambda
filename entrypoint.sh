@@ -22,10 +22,5 @@ aws ec2 stop-instances --instance-ids i-0d73c8f9824e39c22
 
 
 
-exit 200
-
-
-
-
 
 # End

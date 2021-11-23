@@ -1,3 +1,3 @@
 import sys
 def handler(event, context):
-        return 'Hello from AWS Lambda using Python' + sys.version + '!'
+        return 'Running Bash In Docker AWS Lambda thanks Muhammad Asim cloudgeeks.ca' + sys.version + '!'
